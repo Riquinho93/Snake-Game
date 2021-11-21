@@ -1,0 +1,31 @@
+﻿  Jogo.cpp
+C:\Users\henri\Documents\Todos periodos\8º Período\CG\trabalhos opengl snake\ProjetoCG\ProjetoCG\Jogo.cpp(15,21): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\henri\Documents\Todos periodos\8º Período\CG\trabalhos opengl snake\ProjetoCG\ProjetoCG\Jogo.cpp(56,49): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\henri\Documents\Todos periodos\8º Período\CG\trabalhos opengl snake\ProjetoCG\ProjetoCG\Jogo.cpp(56,36): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\henri\Documents\Todos periodos\8º Período\CG\trabalhos opengl snake\ProjetoCG\ProjetoCG\Jogo.cpp(56,19): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\henri\Documents\Todos periodos\8º Período\CG\trabalhos opengl snake\ProjetoCG\ProjetoCG\Jogo.cpp(56,10): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\henri\Documents\Todos periodos\8º Período\CG\trabalhos opengl snake\ProjetoCG\ProjetoCG\Jogo.cpp(135,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  main.cpp
+C:\Users\henri\Documents\Todos periodos\8º Período\CG\trabalhos opengl snake\ProjetoCG\ProjetoCG\main.cpp(52,20): warning C4305: 'inicializando': truncamento de 'double' para 'GLfloat'
+C:\Users\henri\Documents\Todos periodos\8º Período\CG\trabalhos opengl snake\ProjetoCG\ProjetoCG\main.cpp(106,36): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\henri\Documents\Todos periodos\8º Período\CG\trabalhos opengl snake\ProjetoCG\ProjetoCG\main.cpp(106,20): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\henri\Documents\Todos periodos\8º Período\CG\trabalhos opengl snake\ProjetoCG\ProjetoCG\main.cpp(107,35): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\henri\Documents\Todos periodos\8º Período\CG\trabalhos opengl snake\ProjetoCG\ProjetoCG\main.cpp(107,19): warning C4244: 'argumento': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\henri\Documents\Todos periodos\8º Período\CG\trabalhos opengl snake\ProjetoCG\ProjetoCG\main.cpp(129,25): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\henri\Documents\Todos periodos\8º Período\CG\trabalhos opengl snake\ProjetoCG\ProjetoCG\main.cpp(132,45): warning C4305: '+=': truncamento de 'double' para 'float'
+C:\Users\henri\Documents\Todos periodos\8º Período\CG\trabalhos opengl snake\ProjetoCG\ProjetoCG\main.cpp(133,48): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\henri\Documents\Todos periodos\8º Período\CG\trabalhos opengl snake\ProjetoCG\ProjetoCG\main.cpp(133,17): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\henri\Documents\Todos periodos\8º Período\CG\trabalhos opengl snake\ProjetoCG\ProjetoCG\main.cpp(143,31): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\henri\Documents\Todos periodos\8º Período\CG\trabalhos opengl snake\ProjetoCG\ProjetoCG\main.cpp(145,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\henri\Documents\Todos periodos\8º Período\CG\trabalhos opengl snake\ProjetoCG\ProjetoCG\main.cpp(149,30): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\henri\Documents\Todos periodos\8º Período\CG\trabalhos opengl snake\ProjetoCG\ProjetoCG\main.cpp(151,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\henri\Documents\Todos periodos\8º Período\CG\trabalhos opengl snake\ProjetoCG\ProjetoCG\main.cpp(157,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\henri\Documents\Todos periodos\8º Período\CG\trabalhos opengl snake\ProjetoCG\ProjetoCG\main.cpp(162,30): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\henri\Documents\Todos periodos\8º Período\CG\trabalhos opengl snake\ProjetoCG\ProjetoCG\main.cpp(164,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\henri\Documents\Todos periodos\8º Período\CG\trabalhos opengl snake\ProjetoCG\ProjetoCG\main.cpp(175,31): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\henri\Documents\Todos periodos\8º Período\CG\trabalhos opengl snake\ProjetoCG\ProjetoCG\main.cpp(177,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\henri\Documents\Todos periodos\8º Período\CG\trabalhos opengl snake\ProjetoCG\ProjetoCG\main.cpp(185,31): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\henri\Documents\Todos periodos\8º Período\CG\trabalhos opengl snake\ProjetoCG\ProjetoCG\main.cpp(187,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\henri\Documents\Todos periodos\8º Período\CG\trabalhos opengl snake\ProjetoCG\ProjetoCG\main.cpp(195,34): warning C4305: 'argumento': truncamento de 'double' para 'GLclampf'
+  Gerando Código...
+  Snake Game.vcxproj -> C:\Users\henri\source\repos\Snake Game\Debug\Snake Game.exe
